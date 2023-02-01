@@ -13,6 +13,7 @@
     </a>
   </div>
   
+  
 ### Some Projects on Play Store
 
  - [Medibuddy](https://play.google.com/store/apps/details?id=in.medibuddy)
@@ -25,6 +26,13 @@
  - [FanAboard](https://play.google.com/store/apps/details?id=com.fb.sportsplatform&hl=en_IN&gl=US)
  - [Helpie Event: B2B Prospecting](https://play.google.com/store/apps/details?id=com.exhibitor.helpie&hl=en&gl=US)
  - [Jarvis Invest](https://play.google.com/store/apps/details?id=com.neolite.jarvis.monitree&hl=en_IN&gl=US)
+
+### :hammer_and_wrench: Languages :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg" title="Kotlin" alt="Kotlin" width="100" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="100" height="60"/>&nbsp;
+</div>
+
 
 <!--
 **sulemankhan447/sulemankhan447** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

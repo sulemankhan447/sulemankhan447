@@ -1,10 +1,8 @@
 ### Hi there 👋
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60" height="60">
 
-
-<div id="badges" align="center">
+### Suleman is a Senior Android Developer From India
+<div id="badges">
     <a href="https://www.linkedin.com/in/sulemankhan447/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>

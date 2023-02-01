@@ -1,7 +1,7 @@
 ### Hi there 👋
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60" height="60">
 
-### Suleman is a Senior Android Developer From India
+### Suleman is a Senior Android Developer From India who loves to build mobile software solutions to solve problems and make people's life easy
 <div id="badges">
     <a href="https://www.linkedin.com/in/sulemankhan447/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>

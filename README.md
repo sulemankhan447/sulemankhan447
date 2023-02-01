@@ -18,11 +18,12 @@
  - [Medibuddy](https://play.google.com/store/apps/details?id=in.medibuddy)
  - [OBV](https://play.google.com/store/apps/details?id=in.droom)
  - [Droom](https://play.google.com/store/apps/details?id=in.droom)
+ - [Helpie for B2B sales follow-up](https://play.google.com/store/apps/details?id=com.helpie.next&hl=en&gl=US)
  - [Sarwa](https://play.google.com/store/apps/details?id=com.sarwavendor)
  - [Walayem](https://play.google.com/store/apps/details?id=coms.inception.walayem)
  - [Laundry360](https://play.google.com/store/apps/details?id=com.laundry360)
  - [FanAboard](https://play.google.com/store/apps/details?id=com.fb.sportsplatform&hl=en_IN&gl=US)
- - [Helpie](https://play.google.com/store/apps/details?id=com.exhibitor.helpie&hl=en&gl=US)
+ - [Helpie Event: B2B Prospecting](https://play.google.com/store/apps/details?id=com.exhibitor.helpie&hl=en&gl=US)
  - [Jarvis Invest](https://play.google.com/store/apps/details?id=com.neolite.jarvis.monitree&hl=en_IN&gl=US)
 
 <!--
